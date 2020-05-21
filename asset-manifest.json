@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/revenous/static/css/main.0530dabf.chunk.css",
+    "main.js": "/revenous/static/js/main.48ab5f51.chunk.js",
+    "main.js.map": "/revenous/static/js/main.48ab5f51.chunk.js.map",
+    "runtime-main.js": "/revenous/static/js/runtime-main.3f616b48.js",
+    "runtime-main.js.map": "/revenous/static/js/runtime-main.3f616b48.js.map",
+    "static/js/2.09f78244.chunk.js": "/revenous/static/js/2.09f78244.chunk.js",
+    "static/js/2.09f78244.chunk.js.map": "/revenous/static/js/2.09f78244.chunk.js.map",
+    "index.html": "/revenous/index.html",
+    "precache-manifest.574a974217b098b1102006d7fd76999f.js": "/revenous/precache-manifest.574a974217b098b1102006d7fd76999f.js",
+    "service-worker.js": "/revenous/service-worker.js",
+    "static/css/main.0530dabf.chunk.css.map": "/revenous/static/css/main.0530dabf.chunk.css.map",
+    "static/js/2.09f78244.chunk.js.LICENSE.txt": "/revenous/static/js/2.09f78244.chunk.js.LICENSE.txt",
+    "static/media/Search.css": "/revenous/static/media/background_search_mobile.5d0905e6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f616b48.js",
+    "static/js/2.09f78244.chunk.js",
+    "static/css/main.0530dabf.chunk.css",
+    "static/js/main.48ab5f51.chunk.js"
+  ]
+}
